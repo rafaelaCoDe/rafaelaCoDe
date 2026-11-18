@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Raphaela! 👋
 
-<!--
-**rafaelaCoDe/rafaelaCoDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Web Designer & Developer** with a background in **Economics (BSc, University of Cyprus)** and **Business Administration (MBA, MIM)**. 
 
-Here are some ideas to get you started:
+I combine analytical business thinking with hands-on web technologies to build clean, functional, and user-centric websites and e-commerce solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+- **Front-End:** HTML5, CSS3, JavaScript, Responsive Web Design
+- **Back-End & Databases:** PHP, MySQL
+- **CMS & E-Commerce:** WordPress, WooCommerce, On-Page SEO
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Featured Project
+- **[HCOMPANY E-Commerce Store](https://rf.gd)** — Full-featured online store for home appliances and gadgets built with WordPress & WooCommerce.
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [Raphaela Karayianni](htt
