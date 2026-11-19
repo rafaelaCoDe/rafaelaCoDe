@@ -20,4 +20,4 @@ I combine analytical business thinking with hands-on web technologies to build c
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [Raphaela Karayianni](htt
+- **LinkedIn:** Raphaela Karayianni
